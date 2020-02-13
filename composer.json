@@ -1,0 +1,14 @@
+{
+    "name": "dilanm/mvc_02",
+    "authors": [
+        {
+            "name": "kadmProjects",
+            "email": "40564817+kadmProjects@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "symfony/routing": "^5.0",
+        "doctrine/orm": "^2.7",
+        "twig/twig": "^3.0"
+    }
+}
